@@ -5,4 +5,5 @@ gem 'bundler'
 gem 'jekyll'
 gem 'rack-jekyll'
 gem 'kramdown'
+gem 'thin'
 
