@@ -3,7 +3,7 @@ title: How we conquered the world
 email: toraritte@gmail.com
 description: "Utazgatunk."
 baseurl: ""
-# url: "http://minekmentekazusaba.com"
+url: "http://minekmentekazusaba.com"
 twitter_username: toraritte
 github_username:  toraritte
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor']
