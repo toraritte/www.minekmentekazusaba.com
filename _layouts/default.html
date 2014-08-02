@@ -1,20 +1,21 @@
 <!DOCTYPE html>
+
 <!-- http://www.paulirish.com/2009/avoiding-the-fouc-v3/ -->
 <html class="no-js" lang="hu">
 
   {% include head.html %}
 
-    <body>
+  <body>
 
-        {% include header.html %}
+    {% include header.html %}
 
-        <div class="page-content">
-          <div class="wrap">
-          {{ content }}
-          </div>
-        </div>
+    <main class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </main>
 
-        {% include footer.html %}
+    {% include footer.html %}
 
-    </body>
+  </body>
 </html>
