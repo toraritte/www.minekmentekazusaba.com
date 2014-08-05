@@ -90,7 +90,7 @@ categories: code ruby git vim ctags gem
           <span itemprop="name">Pope, Tim</span>
         </span>
         <cite itemprop="name">Effortless Ctags with Git</cite>
-        <time datetime="2011-08-08" itemprop="datePublished">2011-08-08</time>
+        <time pubdate datetime="2011-08-08" itemprop="datePublished" value='2011-08-08'>2011-08-08</time>
         <a href="http://tbaggery.com/2011/08/08/effortless-ctags-with-git.html" itemprop="url">http://tbaggery.com/2011/08/08/effortless-ctags-with-git.html</a>
       </li>
     </div>

@@ -3,13 +3,20 @@ layout: default
 ---
 <div class="post">
 
-  <article class="post-content">
+  <article itemscope itemtype="http://schema.org/BlogPosting" class="post-content">
     <header class="post-header">
-      <h2>{{ page.title }}</h2>
-      <p class="meta">{{ page.date | date: "%Z %F (%R)" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+      <h2 itemprop='name'>{{ page.title }}</h2>
+      <p class="meta">
+        <time pubdate datetime='{{ page.date | date: "%F" }}' itemprop="datePublished" value='{{ page.date | date: "%F" }}'>{{ page.date | date: "%Z %F (%R)" }}</time>
+        {% if page.author %} • {{ page.author }}
+        {% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+      </p>
     </header>
 
-    {{ content }}
+    <div itemprop='text'>
+      {{ content }}
+    </div>
+
   </article>
 
 </div>
