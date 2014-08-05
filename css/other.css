@@ -1,0 +1,18 @@
+ol {
+  counter-reset: o-counter;
+  list-style-type: none;
+}
+
+ol li:before {
+  content: '[' counter(o-counter) ']';
+  counter-increment: o-counter;
+}
+
+/* q { */
+/*   cursor: pointer; */
+/* } */
+
+/* q { */
+/*         color:#caccc9; */
+/*         background-color:#222; */
+/* } */
