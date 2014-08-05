@@ -96,11 +96,3 @@ categories: code ruby git vim ctags gem
     </div>
   </ol>
 </section>
-<script> 
-   var quotes = document.getElementsByTagName('q'); 
-   for (var i in quotes) { 
-      quotes[i].addEventListener('click', function() {  
-         window.location = this.getAttribute('cite'); }, 
-      false); 
-   } 
-</script>
