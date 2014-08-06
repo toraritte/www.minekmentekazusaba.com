@@ -9,7 +9,7 @@ layout: default
       <p class="meta">
         <time pubdate datetime='{{ page.date | date: "%F" }}' itemprop="datePublished" value='{{ page.date | date: "%F" }}'>{{ page.date | date: "%Z %F (%R)" }}</time>
         {% if page.author %} • {{ page.author }}
-        {% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}
+        <span itemprop='keywords'>{% endif %}{% if page.categories %} • {{ page.categories }}{% endif %}</span>
       </p>
     </header>
 
