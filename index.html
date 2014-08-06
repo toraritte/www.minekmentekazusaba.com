@@ -2,6 +2,8 @@
 layout: default
 ---
 
-<div class="home">
-
-</div>
+{% for page in site.posts %}
+  {% include post_layout_start.html %}
+    {{ page.content }}
+  {% include post_layout_end.html %}
+{% endfor %}
