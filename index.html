@@ -10,8 +10,8 @@ layout: default
     <ul class="posts">
       {% for post in site.posts %}
       <li>
-      <span class="post-date">{{ post.date | date: "%Z %F (%R)" }}</span>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <span class="post-date" itemprop='datePublished' value='{{ page.date | date: "%F" }}'>{{ post.date | date: "%Z %F (%R)" }}</span>
+      <a itemprop='blogPost' class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
