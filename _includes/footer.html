@@ -1,10 +1,12 @@
 <footer class="site-footer">
 
   <div class="wrap">
-
+    <!-- TODO: rewrite this part to be similar to Mark Pilgrim's about page. -->
+    <!--       Easier to add schema.org Blog microdata (email, author, etc) -->
+    <!--       http://diveinto.html5doctor.com/about.html -->
     <div class="footer-col-1 column">
-        <address itemprop='author' itemscope itemtype="http://schema.org/Person">
-          <a title="Amig nincs kommenteles" itemprop='email 'value='toraritte@gmail.com 'href="mailto:{{ site.email }}" itemprop='name' >toraritte</a>
+        <address>
+          <a title="Amig nincs kommenteles" href="mailto:{{ site.email }}" itemprop='author' itemscope itemtype="http://schema.org/Person">toraritte</a>
         </address>
     </div>
 
