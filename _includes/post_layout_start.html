@@ -5,7 +5,7 @@
     <header class="post-header">
       <h2 itemprop='name'>{{ page.title }}</h2>
       <p class="meta">
-        <time datetime='{{ page.date | date: "%F %R" }}' itemprop="datePublished" value='{{ page.date | date: "%F" }}'>{{ page.date | date: "%Z %F (%R)" }}</time>
+        <time datetime='{{ page.date | date: "%F %R" }}' itemprop="datePublished" value='{{ page.date | date: "%F" }}'>{{ page.date | date: "%F (%R)" }}</time>
         {% if page.author %} • {{ page.author }}
         {% endif %}{% if page.categories %} • <span itemprop='keywords'>{{ page.categories }}{% endif %}</span>
       </p>

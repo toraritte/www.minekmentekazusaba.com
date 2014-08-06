@@ -5,7 +5,7 @@
     {% for post in site.posts %}
     <li>
     <span class="post-date">
-      {{ post.date | date: "%Z " }}<span itemprop='datePublished'>{{ post.date | date: "%F" }}</span>{{ post.date | date: " (%R)" }}
+      <span itemprop='datePublished'>{{ post.date | date: "%F" }}</span>{{ post.date | date: " (%R)" }}
     </span>
     <a itemprop='blogPost' class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
