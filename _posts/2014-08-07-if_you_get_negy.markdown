@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "If you get négy akkor ..."
+date:   2014-08-07 07:54
+author: Varez
+categories: hawaii
+---
+
+Atijja a piacon egy vásárlónak:
+<q>-If you get négy, akkor it is going to be...</q>
+<p> Mostanában a kötőszavakat toljuk magyarul, pl: <q>de you can also use it...</q>
+Vagy egy vásárló megkérdezte nálam tegnap, hogy a kis gyertyák kókuszhéjban vannak-e, rávágtam magyarul, hogy igen. Egyik nap meg elég ijesztő élményem volt, mintha elment volna az eszem. Épp tele volt a sátram, nagyban magyarázok a vásárlóknak, egyszercsak elkezdek magamban pánikolni, hogy tejóég! mi ez az egész? most angolul beszélek? ezek a szavak tényleg azt jelentik, amit mondok? Mivel kb autopiloton mondom a monológom, ezért végigdaráltam, de most nem sikerült hollywoodi módon melléjátszani a fals lelkesedést.
+Egy másik ilyen elmezavar pár napja volt, egy angol nyelvű fórumot olvasgattam itthon egész nap, mikor dél körül ugyanígy nekiálltam pánikolni magamban, hogy most magyarul olvasok? vagy milyen nyelv ez? ezt most én értem? vagy mi történik? 
+(Most elkezdtünk azon röhögni Atijjával, hogy szakadár csoportok elrabolnak minket, valami fontos infót akarnak kicsikarni belőlünk, és válogatott kínzásoknak vetnek alá, mi meg csak átkapcsoljuk az agyunk és <q>aloha, these are locally made soywax candles...</q> egyre durvább módszerek, csorog a vér a szánk szélén, hörögve "you can get two for teeeeeeen") </p>
+
+Hurrikánriadó van. A Big Island felé tart Iselle, ma este ér oda. Itt elvileg viharos esőzés lesz, meglátjuk. Magunk részéről egy extra görögdinnyével és egy tubus fogkrémmel felvértezve nézünk a trópusi vihar szeme közé.
+
+Én a T25 Gamma utolsó hetét nyomom le épp. Így a vége felé már eléggé unom. Szerintem sok az Alfa-Béta 5-5 hete, még a Gamma négy hetét is sokallom, elég monotonnak hat már így három és fél hónap után. A nehézségi fokkal nincs bajom, mindegyik edzés padlóra csöpögősen izzadós. Nem csinálom minden nap, így előfordul, hogy feltorlódnak az edzések, mert kihagyni viszont egyet sem akarok. Még a Béta alatt történt, hogy valamiért úgy döntöttem jó ötlet hétvégére hagyni két edzést. Ráadásul egész hétvégés meló után vasárnap este hazajöttem, és nekiálltam edzeni. Az első 25 percet még le is nyomtam, de a másodiknál 5 perc után elsírtam magam, hogy én ezt nem bírom, és zokogva ücsörögtem a kanapén. Drama queen at its best. Azóta nem edzek hétvégén. Nem tudom, hogy el akarja-e kezdeni valamelyikőtök, de a Speed 3.0 egészen gyilkos (mondjuk nekem mindig a kardió volt a gyenge pontom). Az edzés eredménye annyira nem látványos, mivel nem diétázom mellette, de jobb reggeleken simán látszik a hasizmom. Inkább az van, hogy jobban érzem magam, szerintem idén már erre leszek a legbüszkébb, hogy kitartottam három és fél hónapig. Ennyit az önfényezésről. Mi van még?
+
+Ja, igen. Én pár hete a piac másik oldalán vagyok, így nyilván új szomszédaim lettek. Szombatonként egy hongkongi nő mellett vagyok, vasárnaponként egy taiwani pár mellett. Egyik nap minden előzmény nélkül átjön hozzám a hongkongi hölgy és elkezdi mutogatni nekem a telefonján a családi fényképalbumot, és kiönti a lelkét, hogy zavarja, hogy nem beszél jól angolul. Másnap ugyanez lejátszódik a taiwani nénivel, aki a tabletén mutogatja végig a gyerekeket és unokákat. Elég aranyosak voltak. Azon egyébként lehidalok, hogy ezek a nők simán letagadhatnak húsz évet. ("Al, te mindentől lehidalsz?" :D)
+
+Sajnos nagyon csúnya természetem van, és imádok kárörvendeni.
+A piacon megvannak az új emberek helyettünk (legalábbis két eladó), az egyik csaj már viszi is az egyik potpourris sátrat (azt talán nem is írtam, hogy szappanokat már nem árulunk, van egy gyertyás sátor, azt én tolom, és van két potpourris {tengeri só és illóolaj} sátor, amit Atijja és az új csaj visznek). Az elmúlt egy év alatt, ha kicsit szarabb nap volt, akkor a főnökasszony egyből rákezdte, hogy mi volt? nem volt elég ember? mondtátok a szöveget? mert mindenkinek, aki bejön a sátorba mondani kell a szöveget stb. Na, most valamiért úgy döntöttek, hogy felvesznek egy szobanövényt. Az új csaj kb egyáltalán nem beszél, ennek megfelelően nem is ad el kb semmit. Tegnap mikor összesítették az egyes sátrak bevételeit, hirtelen már nem volt felénk kérdés, hogy mi volt, nem volt-e elég ember. Tudom, hogy undorító dolog ezen tapsikolni, de nem érdekel. Soha ne legyen női főnökötök.
+
+Jaj, és egy cukiság a végére. Tegnapelőtt voltunk Ko Olinán, elég komoly hullámzás volt. Úsztunk egyet a hullámtörőkig, mikor egyszercsak valami mozgást észleltem az egyik szikla mellett, kiderült, hogy egy teknős ebédel ott épp. Nem vittünk snorkeltémát (mondjuk egyébként sem láttunk volna tovább az orrunknál, olyan zavaros volt a víz), így fél órán keresztül tapostuk a vizet, hogy meglessük, mikor felbukkan. Láttuk is párszor, oltári aranyosan szorgoskodott. A legviccesebb az volt, mikor nyávogó hangon toltam, hogy "hol a teki? látod valahol? hol vagy teki?" erre felbukkant pár centire előttem, és egyenesen a szemembe nézett, én meg pánikba estem, és elkezdtem hátrafelé úszni.
