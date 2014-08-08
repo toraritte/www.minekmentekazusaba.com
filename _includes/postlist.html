@@ -1,0 +1,14 @@
+<aside>
+  <h2>Posztok</h2>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+    <span itemprop='datePublished'>{{ post.date | date: "%F" }}</span>
+    {{ post.date | date: " (%R)" }}
+    <a itemprop='blogPost' class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</aside>
+
