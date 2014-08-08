@@ -1,20 +1,18 @@
 <header class="site-header">
 
-  <div class="wrap">
-
-    <h1 itemprop='headline'><a class="site-title" itemprop='url' href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    <h1 itemprop='headline'>
+      <a class="site-title" itemprop='url' href="{{ site.baseurl }}/">{{ site.title }}</a>
+    </h1>
     <p>{{ site.description }}</p>
 
     <nav class="site-nav">
       <h2 title="site navigation">Navigacio</h2>
       <a class="page-link" href="{{ site.baseurl }}/">Posztok</a>
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
-        {% endfor %}
-      </div>
+      {% for page in site.pages %}
+        {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
     </nav>
-
-  </div>
 
 </header>

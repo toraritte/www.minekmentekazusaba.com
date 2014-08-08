@@ -1,14 +1,24 @@
+<article itemscope itemtype="http://schema.org/BlogPosting" class="post-content">
+  <header class="post-header">
+    <h2 itemprop='name'>{{ page.title }}</h2>
+    <p class="meta">
+      <time datetime='{{ page.date | date: "%F %R" }}' itemprop="datePublished">
+        {{ page.date | date: "%F (%R)" }}
+      </time>
 
-<div class="post">
+      {% if page.author %} • {{ page.author }} {% endif %}
 
-  <article itemscope itemtype="http://schema.org/BlogPosting" class="post-content">
-    <header class="post-header">
-      <h2 itemprop='name'>{{ page.title }}</h2>
-      <p class="meta">
-        <time datetime='{{ page.date | date: "%F %R" }}' itemprop="datePublished">{{ page.date | date: "%F (%R)" }}</time>
-        {% if page.author %} • {{ page.author }}
-        {% endif %}{% if page.categories %} • <span itemprop='keywords'>{{ page.categories }}{% endif %}</span>
-      </p>
-    </header>
+      {% if page.categories %}
+        • <span itemprop='keywords'>{{ page.categories }}
+        </span>
+      {% endif %}
 
-    <div itemprop='text'>
+    </p>
+  </header>
+
+  <div itemprop='text'>
+
+<!-- _includes/post_layout_end.html
+ =============================
+  </div>
+</article>-->
