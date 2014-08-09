@@ -8,14 +8,14 @@
   <body>
 
     {% include header.html %}
-    {% include postlist.html %}
-    {% include google_analytics.html %}
+    {% include postlist.html %} <!-- wrapped in aside -->
 
     <main class="page-content">
       {{ content }}
     </main>
 
     {% include footer.html %}
+    {% include google_analytics.html %}
 
   </body>
 </html>
